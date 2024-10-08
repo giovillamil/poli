@@ -1,0 +1,39 @@
+CONCEPTOS FUNDAMENTALES DE PROGRAMACION
+PROFESOR:
+JAVIER ORLANDO DAZA TORRES
+INTEGRANTE DEL GRUPO:
+OSWALD GIOVANNI VILLAMIL PALOMA
+INSTITUCIÓN UNIVERSITARIA POLITÉCNICO GRANCOLOMBIANO
+OCTUBRE 2024
+
+
+1. Lo aprendido durante el desarrollo del proyecto
+
+Durante el desarrollo del software en Java, se  han adquirido conocimientos y habilidades en:
+
+- Dominio del lenguaje Java: Comprensión de la sintaxis, estructuras de control, manejo de excepciones y colecciones.
+- Programación orientada a objetos (POO): Creación y manipulación de clases, objetos, herencia, polimorfismo y encapsulamiento.
+- Uso de frameworks y bibliotecas: Integración de frameworks como Spring, Hibernate, y bibliotecas para facilitar el desarrollo.
+- 
+
+2. Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos y practicados durante el desarrollo del proyecto
+
+Las habilidades y conocimientos adquiridos pueden aplicarse de diversas maneras en la vida profesional:
+
+- Desarrollo de aplicaciones empresariales robustas y escalables para empresas utilizando Java.
+- Automatización de procesos: Uso de Java para automatizar tareas repetitivas y mejorar la eficiencia.
+- Mejora continua: Aplicación de principios de POO y buenas prácticas de programación para escribir código limpio y mantenible.
+- Colaboración en equipos de desarrollo: Trabajo en proyectos colaborativos utilizando herramientas de control de versiones como Git.
+
+3. Las dificultades presentadas durante el desarrollo del proyecto
+
+Algunas dificultades comunes que pueden surgir incluyen:
+
+- Problemas de compatibilidad: Asegurar que el software funcione en diferentes entornos y versiones de Java.
+- Gestión de dependencias: Manejo de bibliotecas y frameworks externos sin causar conflictos.
+- Optimización del rendimiento: Identificación y solución de cuellos de botella en el rendimiento del software.
+- Errores y excepciones: Manejo adecuado de errores y excepciones para evitar fallos en el software.
+- Comunicación y colaboración: Coordinación efectiva con otros miembros del equipo y manejo de conflictos.
+
+
+https://github.com/giovillamil/poli
